@@ -65,6 +65,7 @@
     "moment-timezone": "^0.5.33"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   }
 }
